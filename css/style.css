@@ -176,17 +176,17 @@ body {
 /* ------ Colors ------ */
 
 .text-color-white {
-    color: #d5a4f1;
+    color: #ffffff;
     font-family: Medium;
 }
 
 .text-color-red {
-    color: #9c75f2;
+    color: #3bffff;
     font-family: Medium;
 }
 
 .text-color-black {
-    color: #000000;
+    color: #00f7ff;
     font-family: Medium;
 }
 
@@ -561,7 +561,7 @@ video {
 }
 
 .label-dejan:after {
-    content: "Jos";
+    content: "Reassembly";
     text-align: center;
 }
 
@@ -669,6 +669,7 @@ video {
     height: 100%;
     width: 50%;
     background-image: url(../img/HomeImg.webp);
+    opacity: 80%;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
